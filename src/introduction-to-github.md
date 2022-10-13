@@ -36,22 +36,21 @@ For you to have a better understanding of GitHub, you need to understand two imp
 
 **Git** is an open-source version control system designed to handle projects of all scales with speed and efficiency. It handles everything GitHub-related that is on your computer.
 
-**GitHub** is a code hosting platform for version control and collaboration. It offers a cloud-based Git repository hosting service which lets you and others to work together on projects from anywhere.
+**GitHub** is a code hosting platform for version control and collaboration. It offers a cloud-based Git repository hosting service which lets you and others work together on projects from anywhere.
 
 > A GitHub repository is a container of all your project's files and each file's revision history.
 
 ## Why GitHub
 
-GitHub lets you and others to work together on projects from anywhere around the world.
+GitHub lets you and others work together on projects from anywhere around the world.
 It makes it a lot easier for individuals and teams to use Git for version control and collaboration.
 
 ## Git vs GitHub
 
-**Git** is a version control system that lets you manage and keep track of your source code history whereas, **GitHub** is a cloud-based hosting service that lets you manage Git repositories.
-
-If you have open-source projects that use Git, then GitHub will help you better manage them.
-
-Another difference to note is that Git is installed and maintained on your local system while GitHub is the only cloud-based
+| Git                                                                                            | GitHub                                                                     |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| It is a version control system that lets you manage and keep track of your source code history | It is a cloud-based hosting service that lets you manage Git repositories. |
+| Git is installed and maintained on your local machine (computer)                               | GitHub is the only cloud-based                                             |
 
 ## How to Clone a repository from GitHub
 
@@ -71,9 +70,9 @@ To clone a repository;
 
 4. Open Git Bash on your computer.
 
-5. Change the current working directory(location) to the location where you want to save the cloned repository.
+5. Change the current working folder to the folder where you want to save the cloned repository.
 
-6. Type `git clone`, and then paste the URL you copied earlier
+6. Type `git clone, and then paste the URL you copied earlier
    ![paste url](img/img3.jpg)
 
 7. Press **Enter** to create your local clone. ![create](img/img4.jpg)
@@ -111,12 +110,12 @@ To commit after making changes;
 
 ## GitHub Desktop vs Github CLI
 
-GitHub Desktop is an application that enables GUI-based interaction with GitHub instead of using the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes.
+| GitHub Desktop                                                                                                                        | GitHub CLI                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| GitHub Desktop is an application that enables GUI-based interaction with GitHub instead of using the command line or an IDE terminal. | GitHub CLI is an open-source tool for using GitHub from your computer's command line. |
+| GitHub Desktop is used to complete most Git commands from your desktop with visual confirmation of changes.                           | GitHub CLI is used to save time and avoid switching contexts.                         |
 
 > GUI (graphical user interface)
-
-The GitHub CLI, however, is an open-source tool for using GitHub from your computer's command line.
-When you're working from the command line, you can use the GitHub CLI to save time and avoid switching contexts.
 
 ## Conclusion
 
