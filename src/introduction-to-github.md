@@ -32,9 +32,9 @@ For you to have a better understanding of GitHub, you need to understand two imp
 - Version control
 - Git
 
-**Version control**, also known as source control, is the practice of tracking and managing changes to software code.
+**Version control**, also known as source control, is the practice of tracking and managing changes to a software.
 
-**Git** is an open-source version control system designed to handle projects of all scales with speed and efficiency. It handles everything GitHub-related that is on your computer.
+**Git** is an open-source version control system designed to handle projects of all sizes with speed and efficiency. It handles everything related to GitHub on your computer.
 
 **GitHub** is a code hosting platform for version control and collaboration. It offers a cloud-based Git repository hosting service which lets you and others work together on projects from anywhere.
 
@@ -47,10 +47,10 @@ It makes it a lot easier for individuals and teams to use Git for version contro
 
 ## Git vs GitHub
 
-| Git                                                                                            | GitHub                                                                     |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| It is a version control system that lets you manage and keep track of your source code history | It is a cloud-based hosting service that lets you manage Git repositories. |
-| Git is installed and maintained on your local machine (computer)                               | GitHub is the only cloud-based                                             |
+| Git                                                                                     | GitHub                                                                     |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| It is a version control system that lets you manage and keep track of your code history | It is a cloud-based hosting service that lets you manage Git repositories. |
+| It is installed and maintained on your local machine (computer)                         | It is solely cloud-based                                                   |
 
 ## How to Clone a repository from GitHub
 
@@ -106,16 +106,14 @@ To commit after making changes;
 5. Press enter
    ![commit](img/img9.jpg)
 
-> to sync these changes to your GitHub repository, type `git push` in your terminal and press **Enter** after committing
+> To sync these changes to your GitHub repository, type `git push` in your terminal and press **Enter** after committing
 
 ## GitHub Desktop vs Github CLI
 
-| GitHub Desktop                                                                                                                        | GitHub CLI                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| GitHub Desktop is an application that enables GUI-based interaction with GitHub instead of using the command line or an IDE terminal. | GitHub CLI is an open-source tool for using GitHub from your computer's command line. |
-| GitHub Desktop is used to complete most Git commands from your desktop with visual confirmation of changes.                           | GitHub CLI is used to save time and avoid switching contexts.                         |
-
-> GUI (graphical user interface)
+| GitHub Desktop                                                                                                                                      | GitHub CLI                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| It is an application that enables interaction with GitHub via a GUI(graphical user interface) instead of using the command line or an IDE terminal. | It is an open-source tool for using GitHub from your computer's command line. |
+| It is used to complete most Git commands from your desktop with visual confirmation of the changes made.                                            | It is used to save time and avoid switching between contexts.                 |
 
 ## Conclusion
 
