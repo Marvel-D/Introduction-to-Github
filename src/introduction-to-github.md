@@ -32,7 +32,7 @@ For you to have a better understanding of GitHub, you need to understand two imp
 - Version control
 - Git
 
-**Version control**, also known as source control, is the practice of tracking and managing changes to a software.
+**Version control**, also known as source control, is the practice of tracking and managing changes made to a software.
 
 **Git** is an open-source version control system designed to handle projects of all sizes with speed and efficiency. It handles everything related to GitHub on your computer.
 
