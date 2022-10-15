@@ -32,13 +32,13 @@ For you to have a better understanding of GitHub, you need to understand two imp
 - Version control
 - Git
 
-**Version control**, also known as source control, is the practice of tracking and managing changes made to a software.
+**Version control** is the practice of monitoring and managing changes made to a software and its code.
 
 **Git** is an open-source version control system designed to handle projects of all sizes with speed and efficiency. It handles everything related to GitHub on your computer.
 
 **GitHub** is a code hosting platform for version control and collaboration. It offers a cloud-based Git repository hosting service which lets you and others work together on projects from anywhere.
 
-> A GitHub repository is a container of all your project's files and each file's revision history.
+> A repository is a container of all your project's files and each file's revision history.
 
 ## Why GitHub
 
