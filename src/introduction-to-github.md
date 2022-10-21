@@ -1,6 +1,6 @@
-# Introduction To GitHub
+# Introduction To GitHu
 
-## Table of content
+## Table of conten
 
 - Introduction
 - What is GitHub
