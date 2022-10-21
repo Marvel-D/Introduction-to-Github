@@ -43,7 +43,7 @@ Although GitHub is not the only code hosting platform on the web, it possess sev
 
 - GitHub lets you and others work together on projects from anywhere around the world.
 - It makes it a lot easier for individuals and teams to use Git for version control and collaboration.
-- using GitHub, contributing to open source projects is made simpler
+- Using GitHub, contributing to open source projects is made simpler
 - GitHub keeps track of changes made to projects. This is especially helpful when collaborating with multiple people because you can determine who made what changes, when and where.
   > visit [opensource.guide](https://opensource.guide/starting-a-project/#:~:text=When%20a%20project%20is%20open,through%20an%20open%20source%20license.) to know more about open source projects
 
@@ -121,10 +121,11 @@ To commit after making changes;
    ![commit](img/img8.jpg)
    > I will be using Visual Studio Code as my IDE.
 2. Hover over the **Changes** panel and click the **plus icon**. This will prepare the files you edited for a commit. This process is known as **staging**.
-   ![commit](img/img8.jpg)
+   ![commit](img/img8_2.jpg)
 3. open your terminal
-   ![commit](img/img8_3.jpg)
-4. type `git commit -m "your commit message"`
+   ![commit](img/img8_3.png)
+4. type `git commit -m "your commit message"` into the opened terminal
+   ![commit](img/img9_1.jpg)
 5. Press enter
    ![commit](img/img9.jpg)
 
@@ -132,14 +133,14 @@ To commit after making changes;
 
 ## GitHub Desktop vs Github CLI
 
-| GitHub Desktop                                                                                                                                      | GitHub CLI                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| It is an application that enables interaction with GitHub via a GUI(graphical user interface) instead of using the command line or an IDE terminal. | It is an open-source tool for using GitHub from your computer's command line. |
-| It is used to complete most Git commands from your desktop with visual confirmation of the changes made.                                            | It is used to save time and avoid switching between contexts.                 |
+| GitHub Desktop                                                                                                                                        | GitHub CLI                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| It is an application that enables interaction with GitHub via a GUI(graphical user interface) instead of using the command line or an IDE's terminal. | It is an open-source tool for using GitHub from your computer's command line. |
+| It is used to complete most Git commands from your desktop with visual confirmation of the changes made.                                              | It is used to save time and avoid switching between contexts.                 |
 
 ## Conclusion
 
-In this article, you have come to understand basic concepts and terminologies including
+In this article, you have come to understand basic processes and terminologies associated with GitHub including:
 
 - What GitHub is
 - Why GitHub is important
