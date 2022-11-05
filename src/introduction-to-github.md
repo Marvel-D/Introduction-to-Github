@@ -55,6 +55,7 @@ Although GitHub is not the only code hosting platform on the web, it possess sev
 | It lets you manage and keep track of your code history          | It lets you manage Git repositories. |
 | It is installed and maintained on your local machine (computer) | It is solely cloud-based             |
 | It is an open-source software                                   | It is not an open-source software    |
+| It is maintained by Linux                                       | It is owned by Microsoft             |
 
 ## How to Clone a repository from GitHub
 
